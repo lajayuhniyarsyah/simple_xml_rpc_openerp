@@ -1,0 +1,14 @@
+{
+    "name": "jay/testxmlrpc",
+    "description": "test xml rpc",
+    "authors": [
+        {
+            "name": "jay",
+            "email": "jay@beltcare.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "phpxmlrpc/phpxmlrpc": "4.0"
+    }
+}
